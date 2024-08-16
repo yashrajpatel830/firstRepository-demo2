@@ -1,2 +1,3 @@
 # firstRepository-demo2
-T
+This is my first repository
+Author = yashraj patel
